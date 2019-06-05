@@ -1,0 +1,4 @@
+对quickfix中example包的整理。
+banzai是客户端
+executor是完全成交
+ordermatch是队列撮合匹配

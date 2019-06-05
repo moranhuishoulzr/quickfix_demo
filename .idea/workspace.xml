@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a98d3b0-940e-4a97-91dd-f04641ad3151" name="Default Changelist" comment="" />
+    <list default="true" id="1a98d3b0-940e-4a97-91dd-f04641ad3151" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,6 +38,7 @@
           <entry key="cfg" value="20" />
           <entry key="class" value="47" />
           <entry key="java" value="85" />
+          <entry key="readme" value="1" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
@@ -44,7 +47,7 @@
           <entry key="CLASS" value="47" />
           <entry key="Enforced Plain Text" value="1" />
           <entry key="JAVA" value="85" />
-          <entry key="PLAIN_TEXT" value="19" />
+          <entry key="PLAIN_TEXT" value="20" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -53,13 +56,15 @@
           <entry key="cfg" value="41" />
           <entry key="class" value="4" />
           <entry key="java" value="800" />
+          <entry key="readme" value="73" />
+          <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="4" />
           <entry key="JAVA" value="800" />
-          <entry key="PLAIN_TEXT" value="41" />
+          <entry key="PLAIN_TEXT" value="121" />
         </counts>
       </usages-collector>
     </session>
@@ -69,7 +74,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/quickfix/examples/ordermatch/Application.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
@@ -87,6 +92,15 @@
                 <element signature="method#toAdmin#0;class#Application#0" />
                 <element signature="method#toApp#0;class#Application#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/readme">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -186,7 +200,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -207,6 +221,7 @@
         <option value="$PROJECT_DIR$/src/main/java/quickfix/examples/ordermatch/Application.java" />
         <option value="$PROJECT_DIR$/src/main/java/quickfix/examples/ordermatch/Order.java" />
         <option value="$PROJECT_DIR$/src/main/java/quickfix/examples/ordermatch/Market.java" />
+        <option value="$PROJECT_DIR$/src/main/readme" />
       </list>
     </option>
   </component>
@@ -293,70 +308,6 @@
               <item name="quickfix" type="462c0819:PsiDirectoryNode" />
               <item name="examples" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="demo_quickfix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo_quickfix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="quickfix" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="banzai" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo_quickfix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo_quickfix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="quickfix" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="ordermatch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo_quickfix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo_quickfix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resouorces" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo_quickfix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo_quickfix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resouorces" type="462c0819:PsiDirectoryNode" />
-              <item name="quickfix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo_quickfix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo_quickfix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resouorces" type="462c0819:PsiDirectoryNode" />
-              <item name="quickfix" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo_quickfix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo_quickfix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resouorces" type="462c0819:PsiDirectoryNode" />
-              <item name="quickfix" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="banzai" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo_quickfix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo_quickfix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resouorces" type="462c0819:PsiDirectoryNode" />
-              <item name="quickfix" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="ordermatch" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -369,11 +320,11 @@
     <property name="SearchEverywhereHistoryKey" value="OrderCancelRequest&#9;PSI&#9;JAVA://quickfix.fix40.OrderCancelRequest&#10;OrdRejReason&#9;PSI&#9;JAVA://quickfix.field.OrdRejReason&#10;ArrayList&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java&#10;FIX42.xml&#9;FILE&#9;jar://D:/apache-maven-3.6.0/repo/org/quickfixj/quickfixj-core/2.1.1/quickfixj-core-2.1.1.jar!/FIX42.xml&#10;SingleThreadedEventHandlingStrategy&#9;PSI&#9;JAVA://quickfix.mina.SingleThreadedEventHandlingStrategy&#10;Session&#9;PSI&#9;JAVA://quickfix.Session" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559715110993" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559716215081" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resouorces/quickfix/examples/banzai/banzai_dynamic.cfg" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/main/resouorces/quickfix/examples/banzai/banzai_dynamic.cfg" />
   </component>
   <component name="RecentsManager">
@@ -498,15 +449,24 @@
       <workItem from="1558528133336" duration="599000" />
       <workItem from="1558575507036" duration="549000" />
       <workItem from="1558595580274" duration="455000" />
-      <workItem from="1559703687565" duration="3375000" />
+      <workItem from="1559703687565" duration="4477000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次测试提交">
+      <created>1559715578409</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559715578409</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75285000" />
+    <option name="totallyTimeSpent" value="76387000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1619" y="20" width="1616" height="912" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.35555556" visible="true" weight="0.28727508" />
       <window_info id="Structure" order="1" sideWeight="0.64444447" side_tool="true" weight="0.32163742" />
@@ -528,7 +488,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.04172462" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32891247" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.17159383" />
@@ -549,6 +509,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次测试提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次测试提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1115,6 +1079,13 @@
             <element signature="method#toAdmin#0;class#Application#0" />
             <element signature="method#toApp#0;class#Application#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
         </state>
       </provider>
     </entry>
